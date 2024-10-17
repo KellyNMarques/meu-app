@@ -3,7 +3,7 @@ function Relogio() {
   return (
     <>
       <div>
-        <h2>Meu Relogio</h2>
+        <h2>Meu Relogio Novo</h2>
       </div>
     </>
   );
