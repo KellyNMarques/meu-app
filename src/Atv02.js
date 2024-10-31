@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import homemImg from './imagem/homem.jpeg'; 
-import mulherImg from './imagem/muher.jpeg'; 
+import homemImg from './imagem/homem.JPG'; 
+import mulherImg from './imagem/mulher.PNG'; 
 
 function Atv02() {
     // Definindo os estados para contagem
